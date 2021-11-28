@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Sunil Mittal
+- 👀 I’m interested in programming and politics...
+- 🌱 I’m currently leaning data structure and algorithm ...
+- 📫 How to reach me ...
+
+<!---
+mittalsab143/mittalsab143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
